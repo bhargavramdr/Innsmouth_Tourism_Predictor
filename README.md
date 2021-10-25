@@ -2,6 +2,16 @@
 
 About 92 percent Accurate prediction of the Tourist Density in the regions of Innsmouth. Deployed using django.
 
+## Running the project
+
+- Install the requirements by: `pip install -r requirements.txt`
+- Run migrations : `python manage.py migrate`
+- Run the server: `python manage.py runserver`
+
+## Here's how the site looks:
+
+![Screenshot (166)](https://user-images.githubusercontent.com/72303641/138700222-f4e72af7-1335-4f69-806c-ba8d71b1332b.png)
+
 
 ## Importing necessary libraries
 ![image](https://user-images.githubusercontent.com/72303641/138649322-68ceda9f-da8d-414e-93bd-96053d02a5d7.png)
