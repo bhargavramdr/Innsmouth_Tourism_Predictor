@@ -31,7 +31,6 @@ About 92 percent Accurate prediction of the Tourist Density in the regions of In
 ![image](https://user-images.githubusercontent.com/72303641/138649485-0b2b9af3-3f8d-4807-a3fc-12e84a4b4ead.png)
 
 ## Prediction:
-
 ![image](https://user-images.githubusercontent.com/72303641/138649551-53351a56-39bb-405a-b80c-710bca981ca8.png)
 
 **Accuracy of 92 percent is not bad all!**
